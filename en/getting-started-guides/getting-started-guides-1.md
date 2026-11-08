@@ -1,4 +1,4 @@
----
+﻿---
 guid: 58e54dc9-b897-47d0-bc3f-73233299d57b
 title: Getting Started Guides
 seo:
@@ -12,7 +12,7 @@ feedback:
 
 /
 
-## <span type="spanMark" style="background: transparent; font-family: Arial; font-size: 23pt; font-weight: 700; font-style:normal; font-variant:normal; text-decoration:none; vertical-align:baseline"><strong>Getting Started with [Product/Service Name]</strong></span>
+## <span type="spanMark" style="background: transparent; font-family: Arial; font-size: 23pt; font-weight: 700; font-style:normal; font-variant:normal; text-decoration:none; vertical-align:baseline"><strong>Getting Started using [Product/Service Name]</strong></span>
 
 <h2 dir="ltr" id="introduction" style="line-height: 1.38; margin-top: 18pt; margin-bottom: 4pt"><span type="spanMark" style="background:transparent;font-family:Arial;font-size:17pt;font-weight:700;background-color:transparent;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;"><strong>Introduction GH046 ruleset test.</strong></span></h2>
 
