@@ -67,4 +67,4 @@ feedback:
 <p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;padding:6pt 0pt 12pt 0pt;" dir="ltr"><span style="background:transparent;font-family:Arial;font-size:11pt;font-weight:400;background-color:transparent;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;" type="spanMark"> </span></p>
 
 
-![lfs2](../assets/lfs2-0935.png)
+![lfs2](../../assets/lfs2-0935.png)
