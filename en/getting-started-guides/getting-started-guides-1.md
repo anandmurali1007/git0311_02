@@ -45,6 +45,3 @@ feedback:
 <h2 dir="ltr" id="conclusion" style="line-height: 1.38; margin-top: 18pt; margin-bottom: 4pt"><span type="spanMark" style="background:transparent;font-family:Arial;font-size:17pt;font-weight:700;background-color:transparent;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;"><strong>Conclusion</strong></span></h2>
 
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt"><span type="spanMark" style="background:transparent;font-family:Arial;font-size:11pt;font-weight:400;background-color:transparent;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">[Encouragement to start using the product/service and links to further resources.]</span></p>
-
-
-[GH096 video](../../assets/Images/gh096-0935.mp4)
