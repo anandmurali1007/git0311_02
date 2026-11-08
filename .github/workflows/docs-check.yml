@@ -1,0 +1,8 @@
+name: docs-check
+on:
+  pull_request:
+jobs:
+  docs-check:
+    runs-on: ubuntu-latest
+    steps:
+      - run: sleep 60 && echo ok
