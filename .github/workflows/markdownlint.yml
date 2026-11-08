@@ -1,0 +1,11 @@
+name: markdownlint
+on:
+  pull_request:
+jobs:
+  markdownlint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          printf '{"config":{"default":false,"MD013":{"line_length":80}}}' > .mdl.jsonc
+          npx --yes markdownlint-cli2@0.13 "en/**/*.md"
